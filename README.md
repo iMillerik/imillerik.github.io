@@ -1,1 +1,1 @@
-Go to https://imillerik.org
+Go to [imillerik.org](https://imillerik.org)
